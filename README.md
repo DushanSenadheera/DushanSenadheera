@@ -3,10 +3,10 @@
 </div>
 👋 Hi, I’m <b>Dushan Senadheera</b>
 <br>
-👀 I’m interested in designing & develop web and mobile applications and AI & ML
+👀 I’m interested in <b>designing & develop web and mobile applications and AI & ML</b>
 <br>
-🌱 I’m currently learning mobile application development and AI and ML
+🌱 I’m currently learning <b>mobile application development and AI and ML</b>
 <br>
-💞️ I’m looking to collaborate on web and app development & designing
+💞️ I’m looking to collaborate on <b>web and app development & designing</b>
 <br>
-📫 How to reach me <a href="www.linkedin.com/in/DushanSenadheera">Dushan Senadheera</a>
+📫 How to reach me <a href="https://lk.linkedin.com/in/dushan-senadheera-271638210">Dushan Senadheera</a>
