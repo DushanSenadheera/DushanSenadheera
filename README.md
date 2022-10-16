@@ -16,5 +16,3 @@
 🌱 I’m currently learning <b>mobile application development and AI and ML</b>
 <br>
 💞️ I’m looking to collaborate on <b>web and app development & designing</b>
-<br>
-📫 How to reach me <a href="https://lk.linkedin.com/in/dushan-senadheera-271638210">Dushan Senadheera</a>
