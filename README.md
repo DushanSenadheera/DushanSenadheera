@@ -19,6 +19,5 @@
 <br>
 <h3>Achievements</h3>
 <div id="achievements" display="flex">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="62px" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="62px" />
+  <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
 </div>
