@@ -18,5 +18,7 @@
 💞️ I’m looking to collaborate on <b>web and app development & designing</b>
 <br>
 <h3>Achievements</h3>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
+<div id="achievements" display="flex">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
+</div>
