@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dushan Senadheera
+- 👋 Hi, <h5>I’m Dushan Senadheera</h5>
 - 👀 I’m interested in designing & develop web and mobile applications and AI & ML
 - 🌱 I’m currently learning mobile application development and AI and ML
 - 💞️ I’m looking to collaborate on web and app development & designing
