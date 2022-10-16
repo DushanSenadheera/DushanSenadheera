@@ -16,3 +16,5 @@
 🌱 I’m currently learning <b>mobile application development and AI and ML</b>
 <br>
 💞️ I’m looking to collaborate on <b>web and app development & designing</b>
+<br>
+<img src="https://github.com/DushanSenadheera?tab=achievements&achievement=yolo"/>
