@@ -17,4 +17,4 @@
 <br>
 💞️ I’m looking to collaborate on <b>web and app development & designing</b>
 <br>
-<img src="https://github.com/DushanSenadheera?tab=achievements&achievement=yolo"/>
+<img src="[https://github.com/DushanSenadheera?tab=achievements&achievement=yolo](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)"/>
