@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-facebook-URL">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook Badge"/>
   </a>
 </div>
 👋 Hi, I’m <b>Dushan Senadheera</b>
