@@ -1,8 +1,8 @@
-- 👋 Hi, <h5>I’m Dushan Senadheera</h5>
+- 👋 Hi, I’m Dushan Senadheera
 - 👀 I’m interested in designing & develop web and mobile applications and AI & ML
 - 🌱 I’m currently learning mobile application development and AI and ML
 - 💞️ I’m looking to collaborate on web and app development & designing
-- 📫 How to reach me www.linkedin.com/in/DushanSenadheera
+- 📫 How to reach me <a href="www.linkedin.com/in/DushanSenadheera">Dushan Senadheera</a>
 
 <!---
 DushanSenadheera/DushanSenadheera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
