@@ -19,6 +19,6 @@
 <br>
 <h3>Achievements</h3>
 <div id="achievements" display="flex">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="62px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="62px" />
 </div>
