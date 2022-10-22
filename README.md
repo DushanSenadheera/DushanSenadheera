@@ -18,4 +18,5 @@
 💞️ I’m looking to collaborate on <b>web and app development & designing</b>
 <br>
 <h3>Achievements</h3>
-<img src="[![@dushansenadheera's Holopin board](https://holopin.me/dushansenadheera)](https://holopin.io/@dushansenadheera)">
+
+[![@dushansenadheera's Holopin board](https://holopin.me/dushansenadheera)](https://holopin.io/@dushansenadheera)
