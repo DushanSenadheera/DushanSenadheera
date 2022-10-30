@@ -22,3 +22,5 @@
 
 [![@dushansenadheera's Holopin board](https://holopin.me/dushansenadheera)](https://holopin.io/@dushansenadheera)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DushanSenadheeratheme=dark&background=000000)](https://git.io/streak-stats)
+
