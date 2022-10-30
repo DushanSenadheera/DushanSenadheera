@@ -22,5 +22,7 @@
 
 [![@dushansenadheera's Holopin board](https://holopin.me/dushansenadheera)](https://holopin.io/@dushansenadheera)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DushanSenadheeratheme=dark&background=000000)](https://git.io/streak-stats)
+<h3>Most used languages</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DushanSenadheera&theme=dark&background=000000)](https://git.io/streak-stats)
 
