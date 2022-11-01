@@ -19,10 +19,6 @@
 <br>
 <h3>Achievements</h3>
 
-
 [![@dushansenadheera's Holopin board](https://holopin.me/dushansenadheera)](https://holopin.io/@dushansenadheera)
 
-<h3>Most used languages</h3>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DushanSenadheera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
