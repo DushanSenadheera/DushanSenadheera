@@ -17,9 +17,9 @@
 <br>
 💞️ I’m looking to collaborate on <b>web and app development & designing</b>
 
-<h3>Achievements</h3>
+<h3>Technologies & Skills</h3>
 
-<div display="flex">
+<div display="inline">
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
