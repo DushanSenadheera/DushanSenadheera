@@ -21,7 +21,7 @@
 
 <h3>Languages & Tools</h3>
 
-<div align="center">  
+<div align="center" padding="6px">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
@@ -58,8 +58,12 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
 </div>
 
+<hr/>
+
 <h3>Achievements</h3>
 
 [![@dushansenadheera's Holopin board](https://holopin.me/dushansenadheera)](https://holopin.io/@dushansenadheera)
+
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DushanSenadheera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
