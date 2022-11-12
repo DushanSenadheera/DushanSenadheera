@@ -6,9 +6,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-👋 Hi, I’m <b>Dushan Senadheera</b>
-<br>
-👀 I’m interested in <b>Designing | Developing</b>
+<h1>👋 Hi, I’m Dushan Senadheera</h1>
+<h3>Software Engineer | Designer</h3>
 
 <hr/>
 
