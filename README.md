@@ -17,6 +17,8 @@
 <br>
 💞️ I’m looking to collaborate on <b>web and app development & designing</b>
 
+<hr/>
+
 <h3>Languages & Tools</h3>
 
 <div align="center">  
