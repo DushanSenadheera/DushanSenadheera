@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <h1>👋 Hi, I’m Dushan Senadheera</h1>
-  <h3>Dev_Enthusiast | Designer</h3>
+  <h3>DevSec_Enthusiast | Designer</h3>
 </div>
 
 <hr/>
