@@ -7,8 +7,7 @@
   </a>
 </div>
 <div align="center">
-  <h1>👋 Hi, I’m Dushan Senadheera</h1>
-  <h3>Dev_Enthusiast</h3>
+  <h3>make complex things to simpler</h3>
 </div>
 
 <hr/>
