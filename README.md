@@ -3,4 +3,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,mysql,next,redux,jest,sass,tailwind,ts,spring,c,php,java,py,sklearn,selenium,aws,docker,kubernetes,terraform,graphql,githubactions,bash,flutter,dotnet,linux)](https://skillicons.dev)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DushanSenadheera&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
