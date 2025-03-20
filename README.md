@@ -15,7 +15,6 @@ technologies:
     - Kafka
   databases:
     - PostgreSQL
-    - MySQL
     - MongoDB
   DevOps:
     - Linux
