@@ -7,8 +7,12 @@ technologies:
     - Angular 
   backend:
     - NestJS
+    - GraphQL
     - Node.js
     - Express
+  tools:
+    - Redis
+    - Kafka
   databases:
     - PostgreSQL
     - MySQL
@@ -19,8 +23,5 @@ technologies:
     - AWS
     - Docker
     - Kubernetes
-  tools:
-    - Redis
-    - Kafka
 
 ```
